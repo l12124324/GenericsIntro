@@ -1,0 +1,12 @@
+D:\Python\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\Python\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\Python\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\Python\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\Python\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Python\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Python\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\Python\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\Python\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Python\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Python\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Python\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
